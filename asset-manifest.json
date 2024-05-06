@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/globe/static/css/main.6a8826e6.css",
+    "main.js": "/globe/static/js/main.6aeaf971.js",
+    "static/js/453.894cc679.chunk.js": "/globe/static/js/453.894cc679.chunk.js",
+    "index.html": "/globe/index.html",
+    "main.6a8826e6.css.map": "/globe/static/css/main.6a8826e6.css.map",
+    "main.6aeaf971.js.map": "/globe/static/js/main.6aeaf971.js.map",
+    "453.894cc679.chunk.js.map": "/globe/static/js/453.894cc679.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a8826e6.css",
+    "static/js/main.6aeaf971.js"
+  ]
+}
